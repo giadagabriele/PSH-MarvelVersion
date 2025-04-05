@@ -1,4 +1,5 @@
 # PSH-MarvelVersion
-Object-oriented Programming Exam: creating Pirate Ship Higemaru game using lib Allegro5
+***Object-oriented Programming group project - Università della Calabria***
 
-basic info: moving with keyboard directional arrows, press 'A' to take the tesseract, press 'S' to throw it
+basic game info: moving with keyboard directional arrows, press 'A' to take the tesseract, press 'S' to throw it
+<br>[developed with lib Allegro5]
